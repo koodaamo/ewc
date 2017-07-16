@@ -1,0 +1,15 @@
+{
+  "name": "ewc-codes",
+  "title": "EU waste codes (EWC codes)",
+  "description": "",
+  "version": "1.0",
+  "keywords": ["ewc", "waste", "eu"],
+  "resources": [{
+      "name": "ewc-vdex-fi",
+      "path": "data/ewc-vdex-fi.xml",
+      "format": "xml",
+      "mediatype": "application/vdex+xml",
+
+    // see below for what a resource descriptor looks like
+  }]
+}
